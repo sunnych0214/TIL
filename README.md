@@ -1,4 +1,3 @@
-#Today I Learned
--
+# Today I Learned
 인생은 유한하기에, 더 나아지기 위해서  
 공부하고, 기록으로써 증명하려고 합니다✨
